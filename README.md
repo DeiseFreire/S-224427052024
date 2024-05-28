@@ -17,3 +17,7 @@ Expressão: `2(x^2 - 1) - 3 = 2x^2 - 2 - 3 = 2x^2 - 5`.
 ## Conclusão
 
 Apresentação do resultado final: `g ∘ f(x) = 2x^2 - 5`.
+
+## Imagem
+![imagem](https://github.com/DeiseFreire/S-224427052024/blob/main/img.png)
+
